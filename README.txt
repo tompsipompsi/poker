@@ -13,4 +13,3 @@ extend this program to cover all poker hands, and further
 developing this program should be relatively easy.
 
 This program was created with Python 3.6.4.
-Developed by: Toni Pellinen, 01/2018
